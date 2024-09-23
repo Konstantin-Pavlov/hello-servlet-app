@@ -8,7 +8,7 @@
     <body>
         <h1>${requestScope.title}</h1>
         ${requestScope.content}
-        <br> <a href="http://localhost:8085/hello_servlet_app/">home</a> <br>
+        <br> <a href="http://localhost:8085/hello-servlet-app/">home</a> <br>
     </body>
 
 </html>
